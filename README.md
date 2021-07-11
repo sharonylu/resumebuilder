@@ -2,7 +2,10 @@
 Built using React.JS and Spring/Java
 
 See it in action (kind of):
+
 https://sharon-resumebuilder.netlify.app
+
+Backend is deployed here: (will show an error/whitelist page if you click on it)
 https://sharon-resumebuilder.herokuapp.com/
 
 Note: Netlify's data retrieval (in my experience) is very very very slow. The /view and /pdf pages may not even load.
