@@ -1,6 +1,12 @@
 # resumebuilder
 Built using React.JS and Spring/Java
 
+See it in action (kind of):
+https://sharon-resumebuilder.netlify.app
+
+Note: Netlify's data retrieval (in my experience) is very very very slow. The /view and /pdf pages may not even load.
+It's better to just run it locally on your own computer
+
 First Page (Enter your info):
 
 ![Screen Shot 2021-07-11 at 2 17 37 PM](https://user-images.githubusercontent.com/49866981/125185543-0ee7be00-e258-11eb-8cdd-9e7f738fe7e6.png)
