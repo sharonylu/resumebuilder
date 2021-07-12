@@ -35,16 +35,20 @@ First, download the files on your computer
 
 To run:
 In terminal, navigate to the resumebuilder folder.
-Run this command: $ ./mvnw spring-boot:run
+
+Run this command:
+
+$ ./mvnw spring-boot:run
+
 In a new tab of terminal, navigate to the resumebuilder folder.
-Then cd into frontend: $ cd frontend
-Run this command: $ npm start
+Then cd into frontend:
+
+$ cd frontend
+
+Install the node modules:
+$ npm install
+
+Run this command:
+$ npm start
 
 This will open up localhost:3000 in your default browser.
-
-Troubleshooting:
-When attemping $ npm start, you may get an error "MODULE_NOT_FOUND"
-Run these commands:
-$ rm -rf node_modules
-$ npm install
-Then it should work!
