@@ -30,10 +30,8 @@ Follow links to individual Pdf.
 
 ![Screen Shot 2021-07-11 at 2 20 42 PM](https://user-images.githubusercontent.com/49866981/125185577-350d5e00-e258-11eb-978a-461011a431c7.png)
 
-Running on your computer:
-To download the files:
-Navigate to the directory you want to save the files in
-git clone
+# Running on your computer:
+First, download the files on your computer
 
 To run:
 In terminal, navigate to the resumebuilder folder.
