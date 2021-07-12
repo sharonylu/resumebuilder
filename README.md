@@ -5,9 +5,14 @@ See it in action (kind of):
 
 https://sharon-resumebuilder.netlify.app
 
-Backend is deployed here: (will show an error/whitelist page if you click on it)
-
+Backend is deployed here:
 https://sharon-resumebuilder.herokuapp.com/
+
+(It will show an error/whitelist since there's no frontend, but if you go to something like this link:
+
+https://sharon-resumebuilder.herokuapp.com/resumes/1
+
+It will display the json data at the given endpoint.)
 
 Note: Netlify's data retrieval (in my experience) is very very very slow. The /view and /pdf pages may not even load.
 It's better to just run it locally on your own computer
