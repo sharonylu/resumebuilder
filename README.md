@@ -8,7 +8,7 @@ https://sharon-resumebuilder.netlify.app
 Backend is deployed here:
 https://sharon-resumebuilder.herokuapp.com/
 
-(It will show an error/whitelist since there's no frontend, but if you go to something like this link:
+(It will show a "whitelabel" error since there's no frontend, but if you go to something like this link:
 
 https://sharon-resumebuilder.herokuapp.com/resumes/1
 
